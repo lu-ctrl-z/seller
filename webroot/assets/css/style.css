@@ -1,0 +1,36 @@
+@CHARSET "UTF-8";
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+body {
+	color: #333333;
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	line-height: 1.4;
+}
+a {
+	text-decoration: none;
+}
+.w100 {
+	width: 100%;
+}
+.display-table {
+    display: table;
+}
+.display-cell {
+	display: table-cell;
+}
+.v-middle {
+	vertical-align: middle;
+}
+.align-center {
+	text-align: center;
+}
+.align-right {
+	text-align: right;
+}
+.align-left {
+	text-align: left;
+}
